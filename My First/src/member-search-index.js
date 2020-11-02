@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.ishaq.collections","c":"ISet","l":"ISet()","url":"%3Cinit%3E()"},{"p":"com.ishaq.collections","c":"Solution","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"com.ishaq.collections","c":"Solution","l":"Solution()","url":"%3Cinit%3E()"}]

@@ -1,0 +1,9 @@
+/home/toor/eclipse-workspace/MyMaven/src/test/java/com/irfan/MyMaven/unit/api/AuthorControllerTest.java
+/home/toor/eclipse-workspace/MyMaven/src/test/java/com/irfan/MyMaven/config/TestScopeWebSecurityConfigurer.java
+/home/toor/eclipse-workspace/MyMaven/src/test/java/com/irfan/MyMaven/unit/web/service/AuthorServiceImplTest.java
+/home/toor/eclipse-workspace/MyMaven/src/test/java/com/irfan/MyMaven/integration/api/AuthorControllerTest.java
+/home/toor/eclipse-workspace/MyMaven/src/test/java/com/irfan/MyMaven/integration/base/TestScopeAuthentication.java
+/home/toor/eclipse-workspace/MyMaven/src/test/java/com/irfan/MyMaven/unit/api/BookControllerTest.java
+/home/toor/eclipse-workspace/MyMaven/src/test/java/com/irfan/MyMaven/integration/api/BookControllerTest.java
+/home/toor/eclipse-workspace/MyMaven/src/test/java/com/irfan/MyMaven/integration/base/IntegrationTestBase.java
+/home/toor/eclipse-workspace/MyMaven/src/test/java/com/irfan/MyMaven/unit/web/service/BookServiceImplTest.java

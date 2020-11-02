@@ -1,0 +1,9 @@
+com/irfan/MyMaven/unit/api/BookControllerTest.class
+com/irfan/MyMaven/config/TestScopeWebSecurityConfigurer.class
+com/irfan/MyMaven/unit/api/AuthorControllerTest.class
+com/irfan/MyMaven/integration/base/TestScopeAuthentication.class
+com/irfan/MyMaven/integration/base/IntegrationTestBase.class
+com/irfan/MyMaven/integration/api/AuthorControllerTest.class
+com/irfan/MyMaven/unit/web/service/AuthorServiceImplTest.class
+com/irfan/MyMaven/integration/api/BookControllerTest.class
+com/irfan/MyMaven/unit/web/service/BookServiceImplTest.class
