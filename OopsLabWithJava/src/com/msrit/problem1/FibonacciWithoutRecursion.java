@@ -1,8 +1,5 @@
 //To print Fibonacci series without using recursion .(concept of loops, data types)
 	
-
-
-
 package com.msrit.problem1;
 import java.util.*;  
 public class FibonacciWithoutRecursion {
